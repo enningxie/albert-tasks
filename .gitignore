@@ -1,0 +1,5 @@
+.idea
+data
+saved_models
+*.log
+test_env.py
